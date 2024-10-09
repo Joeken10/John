@@ -77,10 +77,10 @@ const Home = () => {
       <ProfileImage src={heroImage} alt="John Mwaura" /> {/* Add the circular image */}
       <HeroText>
         <h1 style={{ margin: 0 }}>John Mwaura</h1>
-        <h2 style={{ margin: '10px 0' }}>Electrician & Sound Engineer</h2>
+        <h2 style={{ margin: '10px 0' }}>Electrician & Sound Engineer  @DOLBY'S</h2>
         <p>Bringing sound to life, and light to every corner!</p>
         <LocationText>
-          <strong>Workshop Location:</strong> 123 Main Street, Hometown, State, ZIP
+          <strong>Workshop Location:</strong>Street, Hometown, Estate
         </LocationText>
         <Button href="#contact">Get in Touch</Button> {/* Call to action button */}
       </HeroText>
