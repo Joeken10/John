@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/electrician-portfolioo/static/css/main.5bf242a5.css",
-    "main.js": "/electrician-portfolioo/static/js/main.0797e9b1.js",
-    "static/js/453.287e3036.chunk.js": "/electrician-portfolioo/static/js/453.287e3036.chunk.js",
-    "static/media/joe.jpg": "/electrician-portfolioo/static/media/joe.3769b3c9173e9ac0dce1.jpg",
-    "index.html": "/electrician-portfolioo/index.html",
-    "main.5bf242a5.css.map": "/electrician-portfolioo/static/css/main.5bf242a5.css.map",
-    "main.0797e9b1.js.map": "/electrician-portfolioo/static/js/main.0797e9b1.js.map",
-    "453.287e3036.chunk.js.map": "/electrician-portfolioo/static/js/453.287e3036.chunk.js.map"
+    "main.css": "/Joeken10/John/static/css/main.5bf242a5.css",
+    "main.js": "/Joeken10/John/static/js/main.ae3eb6bf.js",
+    "static/js/453.287e3036.chunk.js": "/Joeken10/John/static/js/453.287e3036.chunk.js",
+    "static/media/joe.jpg": "/Joeken10/John/static/media/joe.3769b3c9173e9ac0dce1.jpg",
+    "index.html": "/Joeken10/John/index.html",
+    "main.5bf242a5.css.map": "/Joeken10/John/static/css/main.5bf242a5.css.map",
+    "main.ae3eb6bf.js.map": "/Joeken10/John/static/js/main.ae3eb6bf.js.map",
+    "453.287e3036.chunk.js.map": "/Joeken10/John/static/js/453.287e3036.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf242a5.css",
-    "static/js/main.0797e9b1.js"
+    "static/js/main.ae3eb6bf.js"
   ]
 }
